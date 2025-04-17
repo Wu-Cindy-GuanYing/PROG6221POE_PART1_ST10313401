@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lab_services_student\\Desktop\\ST10313401_PROG6221POE_Part1\\ChatBot_Cybersecurity.csproj": {}
+    "C:\\Users\\lab_services_student\\Desktop\\PROG6221POE_PART1_ST10313401\\ChatBot_Cybersecurity\\ChatBot_Cybersecurity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lab_services_student\\Desktop\\ST10313401_PROG6221POE_Part1\\ChatBot_Cybersecurity.csproj": {
+    "C:\\Users\\lab_services_student\\Desktop\\PROG6221POE_PART1_ST10313401\\ChatBot_Cybersecurity\\ChatBot_Cybersecurity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\ST10313401_PROG6221POE_Part1\\ChatBot_Cybersecurity.csproj",
+        "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\PROG6221POE_PART1_ST10313401\\ChatBot_Cybersecurity\\ChatBot_Cybersecurity.csproj",
         "projectName": "ChatBot_Cybersecurity",
-        "projectPath": "C:\\Users\\lab_services_student\\Desktop\\ST10313401_PROG6221POE_Part1\\ChatBot_Cybersecurity.csproj",
+        "projectPath": "C:\\Users\\lab_services_student\\Desktop\\PROG6221POE_PART1_ST10313401\\ChatBot_Cybersecurity\\ChatBot_Cybersecurity.csproj",
         "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lab_services_student\\Desktop\\ST10313401_PROG6221POE_Part1\\obj\\",
+        "outputPath": "C:\\Users\\lab_services_student\\Desktop\\PROG6221POE_PART1_ST10313401\\ChatBot_Cybersecurity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
